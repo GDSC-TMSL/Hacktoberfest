@@ -1,12 +1,10 @@
-# Face Mask Detector
+# Diabetes Predictor
 
 ### By Sabyasachi Seal 
 
 To contribute to this project, [click here](https://github.com/GDSC-TMSL/DiabetesPredictor)
 
 ## About the project
-
-# Diabetes Predictor
 
 <hr>
 
