@@ -10,9 +10,9 @@
 
 ## What we have done
 - We have made a list of awesome projects made by our community members and some of our very own projects for you to check out
-- We have published that dashboard tagged with the technologies it uses and its general difficulty level here. [Click here to access our dashboard](https://www.tobeupdated.com)
+- We have published that dashboard tagged with the technologies it uses and its general difficulty level here. [Click here to access our dashboard](https://hacktoberfest-gdsc-tmsl-4eaa0.web.app/)
 - We have a common discord server for all the projects mentioned in this dashboard where you can directly chat or have a voice call with the repo maintainer and resolve your doubts and issues.
-- **If you want to promote your project through our dashboard** [click here](https://www.tobeupdated.com)
+- **If you want to promote your project through our dashboard** [click here](bit.ly/hacktoberfest-tmsl)
 
 ## Now How to do the contributions ⁉️ 💭
 
