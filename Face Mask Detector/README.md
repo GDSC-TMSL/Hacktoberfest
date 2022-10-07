@@ -6,7 +6,7 @@ To contribute to this project, [click here](https://github.com/GDSC-TMSL/FaceMas
 
 ## About the project
 
-###[Click to see the Face Mask Detector](https://github.com/Sabyasachi-Seal/FaceMaskDetector/)
+### [Click to see the Face Mask Detector](https://github.com/Sabyasachi-Seal/FaceMaskDetector/)
 
 <hr>
 
