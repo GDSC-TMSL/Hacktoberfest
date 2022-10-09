@@ -1,4 +1,4 @@
-# Diabetes Predictor
+# Salad Ingredients Detector
 
 ### By Shayantani Kar
 
