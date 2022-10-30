@@ -1,6 +1,5 @@
 <h1 align=center>🌟💫 Hacktoberfest 2022 GDSC TMSL💫🌟</h1>
 
-### Check our Website at [https://hacktoberfest-gdsc-tmsl-4eaa0.web.app/](https://hacktoberfest-gdsc-tmsl-4eaa0.web.app/)
 
 ## <center> 🌟 Hacktoberfest is for Everyone, Whether it's you're first time or your Ninth. It's The time to Hack out Four Pristine Pull/Merge Requests and Complete your mission for Open Source!🌟</center>
 
