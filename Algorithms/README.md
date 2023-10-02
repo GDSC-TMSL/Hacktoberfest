@@ -1,18 +1,18 @@
 # ALGORITHMS (open for contributions)
 
-## For Contributing and Checking out the repo [Click here](https://github.com/GDSC-TMSL/ProjectAlgorithms)
+## For Contributing, check out the repo [Click here](https://github.com/Google-DSC-TMSL/ProjectAlgorithms)
 <hr>
 
 <div align="center">
-<a href="https://github.com/GDSC-TMSL/ProjectAlgorithms">
+<a href="https://github.com/Google-DSC-TMSL/ProjectAlgorithms">
     <img width=5% height=5% src="https://avatars.githubusercontent.com/u/112573688?s=200&v=4"/>
 </a>
-<a href="https://github.com/GDSC-TMSL/ProjectAlgorithms">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Foundry&duration=1&pause=1000&color=E1F74A&center=true&vCenter=true&lines=Google+Developer+Student+Clubs+TMSL">
+<a href="https://github.com/Google-DSC-TMSL/ProjectAlgorithms">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Foundry&duration=1&pause=1000&width=500&color=E1F74A&center=true&vCenter=true&lines=Google+Developer+Student+Clubs+TMSL">
     </a>
 <h1 align="center">Project Algorithms - A Problem Solver's Paradise
    <h6></h6>
-   <a href="https://github.com/GDSC-TMSL/ProjectAlgorithms">
+   <a href="https://github.com/Google-DSC-TMSL/ProjectAlgorithms">
    <img align=center width=100% src="https://readme-typing-svg.herokuapp.com?font=Sora&color=%2336BCF7&size=35&center=true&vCenter=true&width=600%&lines=Stacks;Priority+Queues;Binary+Trees;Hashing;Heaps;Dynamic+Programming;LeetCode;CodeChef;Codeforces;GeeksForGeeks;Contribute+Today+!!!" />
    </a>
 </h1>
@@ -43,8 +43,8 @@
 
 <br>
 
-<a href="https://github.com/GDSC-TMSL/ProjectAlgorithms/">
-  <img src="https://contrib.rocks/image?repo=GDSC-TMSL/ProjectAlgorithms" />
+<a href="https://github.com/Google-DSC-TMSL/ProjectAlgorithms/">
+  <img src="https://contrib.rocks/image?repo=Google-DSC-TMSL/ProjectAlgorithms" />
 </a>
 
 <br><h2><h2><hr>

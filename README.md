@@ -73,11 +73,6 @@
 
    Everyone in this FoSS world works on voluntary basis in their free time. So, sometimes it may take some time to get replies don't get disheartedned by this fact.
 
-### Our contributors:-
-
-<a href="https://github.com/GDSC-TMSL/Hacktoberfest/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=GDSC-TMSL/Hacktoberfest" />
-</a>
 
 ### "All the best for the event" ✨
 
