@@ -34,7 +34,7 @@
 
 <h1 align="center">
 
-   <a href="CONTRIBUTING.md">
+   <a href="../CONTRIBUTING.md">
    <img align=center width=100% src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=500&color=2CF7D4&center=true&vCenter=true&multiline=true&width=435&height=55&lines=Click+Here+to+Contribute;Read+CONTRIBUTING.md" />
    </a>
 </h1>
